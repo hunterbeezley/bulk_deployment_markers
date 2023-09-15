@@ -1,4 +1,4 @@
-# New Relic GraphQL Mutation Script
+# New Relic Deployment Markers for Multiple GUID's
 
 This script allows you to execute GraphQL mutations for a list of GUIDs provided in a CSV file using the New Relic GraphQL API.
 
