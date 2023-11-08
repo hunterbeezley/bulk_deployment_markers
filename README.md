@@ -2,6 +2,8 @@
 
 This script allows you to execute GraphQL mutations for a list of GUIDs provided in a CSV file using the New Relic GraphQL API.
 
+***NOTE: this code is not owned or maintained by New Relic. All outcomes of this script are the sole responsibility of those who use it.***
+
 ## Prerequisites
 
 - Python 3.x installed
